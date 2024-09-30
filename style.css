@@ -1,0 +1,22 @@
+div {
+  max-width: 700px;
+  max-height: 600px;
+  background-color: hsla(76, 89%, 63%, 1);
+  color: hsla(76, 72%, 11%, 1);
+  padding: 10px;
+  border-bottom-right-radius: 200px;
+  overflow: hidden;
+}
+
+p {
+  font-size: 80px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0px;
+}
+
+img {
+  max-width: 800px;
+  max-height: 400px;
+  border-bottom-right-radius: 200px;
+}
